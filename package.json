@@ -1,0 +1,18 @@
+{
+  "name": "crv-distribution-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-retry": "^1.3.1",
+    "bluebird": "^3.7.2",
+    "graphql": "^15.3.0",
+    "graphql-request": "^3.0.0"
+  }
+}
